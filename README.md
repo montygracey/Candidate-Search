@@ -13,12 +13,12 @@ A React-based application for searching and saving GitHub user profiles as poten
 - **Styling**: Clean and modern UI with responsive design.
 
 ## Technologies Used
-- **React**: Front-end library for building user interfaces.
-- **TypeScript**: Adds static typing to JavaScript for better code quality.
-- **Vite**: Fast build tool for modern web development.
-- **GitHub API**: Fetches user data from GitHub.
-- **React Router**: Handles navigation between pages.
-- **LocalStorage**: Persists saved candidates across page reloads.
+- **React**
+- **TypeScript**
+- **Vite**
+- **GitHub API**
+- **React Router**
+- **LocalStorage**
 
 ---
 Project by Monty Gracey
