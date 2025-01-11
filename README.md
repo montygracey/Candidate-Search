@@ -20,5 +20,13 @@ A React-based application for searching and saving GitHub user profiles as poten
 - **React Router**
 - **LocalStorage**
 
+## Code Attribution
+API Integration: The code for fetching GitHub user data is based on the GitHub REST API documentation. The API integration logic can be found in src/api/API.tsx.
+
+React Router Setup: The navigation setup using React Router is inspired by the React Router documentation. The routing configuration is located in src/main.tsx.
+
+LocalStorage Usage: The logic for saving and retrieving candidates using localStorage is implemented in src/pages/CandidateSearch.tsx and src/pages/SavedCandidates.tsx.
+
+Styling: The CSS styles for the application are defined in src/index.css.
 ---
 Project by Monty Gracey
