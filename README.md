@@ -30,4 +30,5 @@ LocalStorage Usage: The logic for saving and retrieving candidates using localSt
 Styling: The CSS styles for the application are defined in src/index.css.
 ---
 Project by Monty Gracey
+---
 Deployed site - https://montygraceycandidatesearch.netlify.app/
