@@ -32,3 +32,9 @@ Styling: The CSS styles for the application are defined in src/index.css.
 Project by Monty Gracey
 ---
 Deployed site - https://montygraceycandidatesearch.netlify.app/
+---
+![Untitled design](https://github.com/user-attachments/assets/97b57b91-5db2-41d4-b177-6116be043d92)
+
+![Screenshot_10](https://github.com/user-attachments/assets/cc6733a7-f6b0-4341-adca-f1f427e7190c)
+
+
